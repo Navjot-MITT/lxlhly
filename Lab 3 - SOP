@@ -1,24 +1,24 @@
-Standard operating procedure
-[Company name] 
-[Company street address] 
-[Company or department phone number]
-[Version # of document] 
-Written by: [Name of SOP writer] 
-Approved by: [Name of approver] 
-Date: [MM/DD/YYYY]
+# Standard operating procedure
+## [University of Manitoba] 
+[66 Chancellors Cir, Winnipeg, MB R3T 2N2] 
+[+18004321960]
+[Version 1.0] 
+Written by: [Mengyi Li] 
+Approved by: [Winnipeg] 
+Date: [11/23/2024]
 
-Purpose
-[Briefly describe the reason you are writing this SOP and any broad information about the procedure.]
-Application
-[Describe who this document applies to and under what circumstances.]
-Definitions
+## Purpose
+[Crafting a Standard Operation Procedure (SOP) document about setup a Windows server.]
+## Application
+[Unified installation process for Windows Server for IT staff in schools.]
+## Definitions
 [Define any unknown words or acronyms that can help the reader understand this SOP.]
-Procedure steps
+## Procedure steps
 [Describe each step of the procedure and mention any known hazards or difficulties.]
-Step 1:
+## Step 1: Prepare Installation Media
 Step 2:
 Step 3:
 Step 4:
 Step 5:
-Resources
+## Resources
 [Include any resources that can help the reader execute the procedure safely and effectively.]
