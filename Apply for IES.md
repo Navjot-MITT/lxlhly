@@ -3,6 +3,7 @@
 
 1. **Choose Your Pathway**: Decide which pathway suits you best:
    - **Career Employment Pathway**: For those who have found long-term employment in Manitoba.
+   - 22220	2	[Computer network and web technicians](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1322554&CVD=1322870&CPV=22220&CST=01052021&CLV=5&MLV=5)	5	2281	B [In-Demand Occupations](https://immigratemanitoba.com/work/in-demand-occupations/)
    - **Graduate Internship Pathway**: For those who have completed a master’s or doctoral degree and are registered in internships contributing to innovation in Manitoba.
    - **International Student Entrepreneur Pilot (ISEP)**: For those who want to start a business in Manitoba.
 
