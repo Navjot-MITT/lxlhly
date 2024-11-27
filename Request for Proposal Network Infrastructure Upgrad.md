@@ -45,11 +45,33 @@ I appreciate the chance to offer a suggestion for improving your network infrast
 Ensures adherence to relevant industry standards and regulations, providing a robust framework for growth and operational efficiency.
 
 ## 4. Cost Breakdown
-- **Network Design and Planning**: $2,000
-- **Equipment and Hardware**: $18,000
-- **Deployment and Integration**: $2,100
-- **Training**: $3,000
-- **Ongoing Support (Annual)**: $236
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+  </tr>
+  <tr>
+    <td>Network Design and Planning</td>
+    <td>$2,000</td>
+  </tr>
+  <tr>
+    <td>Equipment and Hardware</td>
+    <td>$18,000</td>
+  </tr>
+  <tr>
+    <td>Deployment and Integration</td>
+    <td>$2,100</td>
+  </tr>
+  <tr>
+    <td>Training</td>
+    <td>$3,000</td>
+  </tr>
+  <tr>
+    <td>Ongoing Support (Annual)</td>
+    <td>$236</td>
+  </tr>
+</table>
+
 
 ## 5. Experiences and Company Profile
 With more than 20 years of specialization, our company focuses on providing end-to-end IT and network solutions. Highlights include:
