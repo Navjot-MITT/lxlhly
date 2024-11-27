@@ -1,18 +1,18 @@
 # Standard operating procedure
-## [University of Manitoba] 
-[66 Chancellors Cir, Winnipeg, MB R3T 2N2] 
-[+18004321960]
+## University of Manitoba
+66 Chancellors Cir, Winnipeg, MB R3T 2N2
++18004321960
 
-[Version 1.0] 
-Written by: [Mengyi Li] 
-Approved by: [Winnipeg] 
-Date: [11/23/2024]
+Version 1.0
+Written by: Mengyi Li
+Approved by: Winnipeg
+Date: 11/23/2024
 
 ## Purpose
-[Crafting a Standard Operation Procedure (SOP) document about setup a Windows server.]
+Standardize the process of installing Windows OS on a virtual machine using VMware, providing efficiency and reliability.
 
 ## Application
-[Unified installation process for Windows Server for IT staff in schools.]
+Unified installation process for Windows Server for IT staff in schools.
 
 ## Definitions
 
