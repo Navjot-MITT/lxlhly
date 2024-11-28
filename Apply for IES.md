@@ -1,5 +1,5 @@
 
-### Steps to Apply for IES
+### Steps to Apply for IES navjot
 
 1. **Choose Your Pathway**: Decide which pathway suits you best:
    - **Career Employment Pathway**: For those who have found long-term employment in Manitoba.
